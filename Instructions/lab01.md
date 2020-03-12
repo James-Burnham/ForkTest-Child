@@ -53,15 +53,19 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  From the **All services** blade, select **Storage Accounts**.
 
-1.  From the **Storage accounts** blade, get your list of storage account instances.
+1.  From the **+++Storage accounts+++** blade, get your list of storage account instances.
 
 1.  From the **Storage accounts** blade, select **Add**.
 
 1.  From the **Create storage account** blade, observe the tabs from the blade, such as **Basics**, **Tags**, and **Review + Create**.
 
     > **Note**: Each tab represents a step in the workflow to create a new storage account. At any time, you can select **Review + Create** to skip the remaining tabs.
+    
+1. Type your special thing in the textbox below:
+    
+    @lab.TextBox(special)
 
-1.  Replace with your special thing where you see <coolstuffinc>.com
+1.  In the document, find <coolstuffinc>.com and replace it with +++@lab.variable(special).com+++
 
 1.  Replace with your special thing where you see <coolstuffic>.com
 
