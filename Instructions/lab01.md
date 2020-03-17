@@ -65,6 +65,6 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  In the document, find <coolstuffinc>.com and replace it with +++@lab.variable(special).com+++
 
-1.  Replace with your special thing where you see <coolstuffinc>.com
+1.  Replace with your special thing where you do things with <coolstuffinc>.com
 
 
