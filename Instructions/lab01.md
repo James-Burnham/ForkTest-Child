@@ -53,8 +53,6 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  From the **All services** blade, select **Storage Accounts**.
 
-1.  From the **+++Storage accounts+++** blade, get your list of storage account instances.
-
 1.  From the **Storage accounts** blade, select **Add**.
 
 1.  From the **Create storage account** blade, observe the tabs from the blade, such as **Basics**, **Tags**, and **Review + Create**.
@@ -67,6 +65,6 @@ Find the taskbar on your Windows 10 desktop. The taskbar contains the icons for 
 
 1.  In the document, find <coolstuffinc>.com and replace it with +++@lab.variable(special).com+++
 
-1.  Replace with your special thing where you see <coolstuffic>.com
+1.  Replace with your special thing where you see <coolstuffinc>.com
 
 
